@@ -1,3 +1,3 @@
 # Git Practice
 
-Giới thiệu: Toi la‡ <Tran Minh Khang>, MSSV <220495>.
+Giới thiệu: Toi la <TranMinhKhang>, MSSV <220495>.
